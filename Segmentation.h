@@ -1,9 +1,8 @@
 //
 //  Segmentation.h
-//  SliceOCR
 //
 //  Created by Salik Syed on 8/16/11.
-//  Copyright 2011 Stanford. All rights reserved.
+//  GPL License
 //
 
 #pragma once
