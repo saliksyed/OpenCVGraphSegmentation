@@ -1,10 +1,8 @@
 //
 //  Segmentation.cpp
-//  SliceOCR
 //
 //  Created by Salik Syed on 8/16/11.
-//  Copyright 2011 Stanford. All rights reserved.
-//
+//  GPL License
 
 #include "Segmentation.h"
 #include "segment-image.h"
